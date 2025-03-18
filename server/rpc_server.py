@@ -1,6 +1,5 @@
 import os
 from xmlrpc.server import SimpleXMLRPCServer
-import shutil
 
 # Directory where files will be stored
 UPLOAD_DIR = "server_files"
